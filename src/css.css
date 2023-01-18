@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+/* header */
+.me-auto a{
+    font-family: 'Poppins', sans-serif;
+}
+.me-auto a:hover{
+    color: rgb(255, 255, 255);
+}
+/* icon */
+.AiOutlineHome{
+    margin-right: 2px;
+    margin-bottom: 4px;
+    }
+.AiOutlineLogin{
+    margin-right: 2px;
+    margin-bottom: 4px;
+}  
+.BsPencilSquare{
+    margin-right: 2px;
+    margin-bottom: 4px;
+} 
+/* footer */
+.textList{
+    font-family: 'Poppins', sans-serif;
+    font-size:30px ;
+    font-weight: bold;
+}
